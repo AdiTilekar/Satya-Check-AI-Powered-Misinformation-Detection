@@ -10,8 +10,8 @@
 ## 🚀 Get the App (APK)
 This project is under active development. The source code is not yet public, but you can try the latest version by installing the APK:  
 
-1. Download the latest APK from this GitHub repo.  
-   - File: **app-debug.apk**  
+1. Download the latest APK from this GitHub repo using drive link.  
+   drive link :- https://drive.google.com/file/d/1bL_Sjhng2jvtWr3ugKm90UoM4zQvLcwD/view?usp=drive_link - File: **app-debug.apk**  
 2. On your Android device, enable **“Allow installation from unknown sources”** in settings.  
 3. Tap the downloaded file to install and start using **Satya Check**.  
 
